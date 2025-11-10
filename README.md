@@ -58,6 +58,5 @@ Semaphore permite controlar el acceso a un número finito de recursos. Cada coch
 ## 👤 Autor
 **Nombre:** Alberto Alcalde Montero  
 **Curso:** 2º DAM  
-**Asignatura:** Programación Concurrente y Multihilo  
+**Asignatura:** Programación de servicios y procesos
 **Proyecto:** Control de Acceso Concurrente a un Aparcamiento con Semaphore  
-**Repositorio GitHub:** *(añadir enlace una vez subido)*
