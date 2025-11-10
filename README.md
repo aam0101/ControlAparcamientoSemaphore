@@ -90,6 +90,6 @@ Cada ejecución muestra un orden distinto, demostrando el comportamiento concurr
 | `PrincipalParking.java` | Clase principal del programa |
 | `README.md` | Documentación del proyecto |
 | `.gitignore` | Exclusión de archivos compilados |
-| `/docs/*.png` | Capturas de ejecución (añadir tras prueba) |
+| `/docs/*.png` | Capturas de ejecución |
 
 
