@@ -65,17 +65,10 @@ Semaphore permite controlar el acceso a un número finito de recursos. Cada coch
 
 ## 🖼️ Capturas de Ejecución
 
-A continuación se muestran ejemplos visuales del funcionamiento del programa.  
-Estas capturas deben incluirse en la carpeta `/docs` del repositorio GitHub.
+A continuación se muestra un ejemplo visuales del funcionamiento del programa.  
 
-### Ejemplo 1 — Inicio de la simulación
+### Ejemplo — Inicio de la simulación
 ![Inicio de ejecución](docs/captura_inicio.png)
-
-### Ejemplo 2 — Coches esperando su turno
-![Coches esperando](docs/captura_espera.png)
-
-### Ejemplo 3 — Salidas sincronizadas
-![Coches saliendo](docs/captura_salida.png)
 
 Cada ejecución muestra un orden distinto, demostrando el comportamiento concurrente real.
 
